@@ -1,0 +1,7 @@
+store shape: {
+    user: {
+        data: UserInfo | null
+        accessToken: string | null
+    },
+    rooms: Room[]
+}
